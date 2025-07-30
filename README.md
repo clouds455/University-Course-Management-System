@@ -1,2 +1,2 @@
 # University-Course-Management-System
-
+Download the files and complie the program. Then hit run and it will display the students and their id numbers. It will display intitally that there is No Students Enrolled in the Course. Then it will enroll kids id numbers into the course 101. However the capacity is less than 3. Therefore the third student is admitted to the waitlist. It displays the waitlist and if the waitlist is free then the student is admitted into the course. It then displays the activity log displaying the students ID numbers and the course they were added to. 
